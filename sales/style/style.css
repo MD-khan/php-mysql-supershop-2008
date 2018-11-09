@@ -1,0 +1,19 @@
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+	border:0;
+}
+
+
+
+.red_message {color: #009900}
+.green_message {color:#FF0000}
+
+.right_align {
+	text-align:right;
+}
+.wide {
+	width:100%;
+}

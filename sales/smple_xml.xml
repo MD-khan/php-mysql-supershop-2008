@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<items>
+	<item>
+		<item_id>1</item_id>
+		<item_name>Maxtor</item_name>
+		<cat_id>1</cat_id>
+		<purchage>3200.00</purchage>
+	</item>
+	<item>
+		<item_id>2</item_id>
+		<item_name>Samsung</item_name>
+		<cat_id>1</cat_id>
+		<purchage>3250.00</purchage>
+	</item>
+	<item>
+		<item_id>3</item_id>
+		<item_name>Quantum</item_name>
+		<cat_id>1</cat_id>
+		<purchage>3250.00</purchage>
+	</item>
+</items>
